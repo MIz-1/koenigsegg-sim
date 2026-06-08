@@ -80,3 +80,7 @@ Automotive Simulation Series | Phase 5
 
 > Inspired by Koenigsegg's engineering philosophy:
 > *"If it doesn't exist, invent it."*
+
+## Live Dashboard Preview
+
+![Animated Dashboard](outputs/dashboard.gif)
